@@ -1,2 +1,2 @@
 # XcodeSnippets
-Objective-C and Swift Snippets by Sean
+Objective-C and Swift Snippets by Sean Chen
